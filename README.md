@@ -8,8 +8,8 @@ srresnet.ipynb: Trains the SRResNet model for 2× image super-resolution using d
 
 output.ipynb: Loads the trained SRCNN, ESPCN, and SRResNet models and visualizes side-by-side super-resolution results on sample validation images for comparison.
 
-srcnn_epoch20.pth → Trained SRCNN model weights after 20 epochs (used for 2× super-resolution inference).
+srcnn_epoch20.pth: Trained SRCNN model weights after 20 epochs (used for 2× super-resolution inference).
 
-espcn_epoch20.pth → Trained ESPCN model weights after 20 epochs (used for 2× super-resolution inference).
+espcn_epoch20.pth: Trained ESPCN model weights after 20 epochs (used for 2× super-resolution inference).
 
-srresnet_epoch20.pth → Trained SRResNet model weights after 20 epochs (used for 2× super-resolution inference).
+srresnet_epoch20.pth: Trained SRResNet model weights after 20 epochs (used for 2× super-resolution inference).
